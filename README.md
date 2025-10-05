@@ -20,9 +20,20 @@ npm run preview
 
 ## Development Status
 
-**Current Milestone**: 1 (Project Setup) - ✅ COMPLETE
+**Current Progress**: 42% Complete (5/12 milestones) 🎮
+
+**Current Milestone**: 6 (Upgrade System)
+**Completed**: Milestones 1-5 ✅
 
 The game runs at http://localhost:3000 when dev server is active.
+
+### What's Working Now:
+- ✅ Core game loop (enemies spawn, archers shoot, damage applies)
+- ✅ Economy system (coins, hearts, rewards)
+- ✅ Wave progression with scaling difficulty
+- ✅ 6 Tier 1 archers with different stats
+- ✅ UI with shop, header bar, speed controls
+- ✅ Game over/restart functionality
 
 ## Documentation
 
@@ -51,18 +62,20 @@ bee/
 
 ## Milestone Roadmap
 
-1. ✅ Project Setup + Basic Map Rendering
-2. ⏸️ Enemy Movement
-3. ⏸️ Basic Archer + Shooting
-4. ⏸️ Round System + Economy
-5. ⏸️ Archer Shop + Multiple Types
-6. ⏸️ Upgrade System
+1. ✅ **Project Setup + Basic Map Rendering** - Complete
+2. ✅ **Enemy Movement** - Complete
+3. ✅ **Basic Archer + Shooting** - Complete
+4. ✅ **Round System + Economy** - Complete
+5. ✅ **Archer Shop + Multiple Types** - Complete
+6. 🔄 **Upgrade System** - In Progress
 7. ⏸️ Advanced Paths + Crossings
 8. ⏸️ All Archers + Enemy Types
 9. ⏸️ Boss System + Difficulty Scaling
 10. ⏸️ Avatar System + Meta Progression
 11. ⏸️ Learning Mode + Questions
 12. ⏸️ Polish + Full Features
+
+**Progress**: 42% (5/12 milestones complete)
 
 ## Technology Stack
 
